@@ -1,2 +1,2 @@
 # FoodApp
-A fullStack website for restaurnat food management system
+A fullStack website for restaurant food management system
